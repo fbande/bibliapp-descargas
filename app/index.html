@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width" />
+    <meta name="theme-color" content="#303f9f" />
+    <script>
+      // Aplica el tema y el tamaño de letra guardados ANTES de pintar (sin parpadeo). Misma lógica que src/app/tema.ts.
+      (function () {
+        var r = document.documentElement;
+        var t = 'claro';
+        var z = '2';
+        try {
+          var gt = localStorage.getItem('ajustes.tema');
+          if (gt === 'claro' || gt === 'sepia' || gt === 'oscuro' || gt === 'auto') t = gt;
+          var gz = localStorage.getItem('ajustes.tamano');
+          if (/^[1-7]$/.test(gz)) z = gz;
+        } catch (e) {}
+        if (t === 'auto') t = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'oscuro' : 'claro';
+        r.setAttribute('data-tema', t);
+        r.style.setProperty('--tam-lectura', String({ 1: 0.75, 2: 0.85, 3: 1, 4: 1.17, 5: 1.35, 6: 1.6, 7: 1.85 }[z]));
+        // Color de fondo provisorio hasta que cargue la hoja de estilos (AjustesProvider lo quita).
+        r.style.backgroundColor = { claro: '#e9e4de', sepia: '#e4d9bf', oscuro: '#0f0d0c' }[t];
+        var m = document.querySelector('meta[name="theme-color"]');
+        if (m) m.setAttribute('content', { claro: '#ffffff', sepia: '#6d4c41', oscuro: '#3a2e2a' }[t]);
+      })();
+    </script>
+    <title>Biblia Católica Offline</title>
+    <link rel="icon" href="data:," />
+    <script type="module" crossorigin src="./assets/index-DFiv_YUi.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-B6dZs6DT.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>

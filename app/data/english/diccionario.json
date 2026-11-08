@@ -1,0 +1,17 @@
+{
+    "diccionario": 
+      [
+        {"es": "Pentateuco", "en": "Pentateuch"},
+        {"es": "Libros Históricos", "en": "Historical Books"},
+        {"es": "Libros Sapienciales", "en": "Wisdom Books"},
+        {"es": "Profetas", "en": "Prophets"},
+        {"es": "Evangelios", "en": "Gospels"},
+        {"es": "Hechos de los Apóstoles", "en": "Acts of the Apostles"},
+        {"es": "Cartas de San Pablo", "en": "Letters of Saint Paul"},
+        {"es": "Cartas Canónicas", "en": "Canonical Letters"},
+        {"es": "Libro del Apocalipsis", "en": "Book of Revelation"},
+        {"es": "Oraciones", "en": "Prayer"}
+        
+      ]
+  }
+  

@@ -1,0 +1,1094 @@
+{
+  "Antiguo Testamento": {
+    "Pentateuco": [
+      {
+        "id": "genesis",
+        "es": "Génesis",
+        "en": "Genesis",
+        "icono": "avatares/genesis.svg",
+        "visible": false,
+        "capitulos": 50,
+        "desc_en": "50 Chapters",
+        "desc_es": "50 Capítulos"
+      },
+      {
+        "id": "exodo",
+        "es": "Éxodo",
+        "en": "Exodus",
+        "icono": "avatares/exodo.svg",
+        "visible": false,
+        "capitulos": 40,
+        "desc_en": "40 Chapters",
+        "desc_es": "40 Capítulos"
+      },
+      {
+        "id": "levitico",
+        "es": "Levítico",
+        "en": "Leviticus",
+        "icono": "avatares/levitico.svg",
+        "visible": false,
+        "capitulos": 27,
+        "desc_en": "27 Chapters",
+        "desc_es": "27 Capítulos"
+      },
+      {
+        "id": "numeros",
+        "es": "Números",
+        "en": "Numbers",
+        "icono": "avatares/numeros.svg",
+        "visible": false,
+        "capitulos": 36,
+        "desc_en": "36 Chapters",
+        "desc_es": "36 Capítulos"
+      },
+      {
+        "id": "deuteronomio",
+        "es": "Deuteronomio",
+        "en": "Deuteronomy",
+        "icono": "avatares/deuteronomio.svg",
+        "visible": false,
+        "capitulos": 34,
+        "desc_en": "34 Chapters",
+        "desc_es": "34 Capítulos"
+      }
+    ],
+    "Libros Históricos": [
+      {
+        "id": "josue",
+        "es": "Josué",
+        "en": "Joshua",
+        "icono": "avatares/josue.svg",
+        "visible": false,
+        "capitulos": 24,
+        "desc_en": "24 Chapters",
+        "desc_es": "24 Capítulos"
+      },
+      {
+        "id": "jueces",
+        "es": "Jueces",
+        "en": "Judges",
+        "icono": "avatares/jueces.svg",
+        "visible": false,
+        "capitulos": 21,
+        "desc_en": "21 Chapters",
+        "desc_es": "21 Capítulos"
+      },
+      {
+        "id": "rut",
+        "es": "Rut",
+        "en": "Ruth",
+        "icono": "avatares/rut.svg",
+        "visible": false,
+        "capitulos": 4,
+        "desc_en": "4 Chapters",
+        "desc_es": "4 Capítulos"
+      },
+      {
+        "id": "1-samuel",
+        "es": "1 Samuel",
+        "en": "1 Samuel",
+        "icono": "avatares/1-samuel.svg",
+        "visible": false,
+        "capitulos": 31,
+        "desc_en": "31 Chapters",
+        "desc_es": "31 Capítulos"
+      },
+      {
+        "id": "2-samuel",
+        "es": "2 Samuel",
+        "en": "2 Samuel",
+        "icono": "avatares/2-samuel.svg",
+        "visible": false,
+        "capitulos": 24,
+        "desc_en": "24 Chapters",
+        "desc_es": "24 Capítulos"
+      },
+      {
+        "id": "1-reyes",
+        "es": "1 Reyes",
+        "en": "1 Kings",
+        "icono": "avatares/1-reyes.svg",
+        "visible": false,
+        "capitulos": 22,
+        "desc_en": "22 Chapters",
+        "desc_es": "22 Capítulos"
+      },
+      {
+        "id": "2-reyes",
+        "es": "2 Reyes",
+        "en": "2 Kings",
+        "icono": "avatares/2-reyes.svg",
+        "visible": false,
+        "capitulos": 25,
+        "desc_en": "25 Chapters",
+        "desc_es": "25 Capítulos"
+      },
+      {
+        "id": "1-cronicas",
+        "es": "1 Crónicas",
+        "en": "1 Chronicles",
+        "icono": "avatares/1-cronicas.svg",
+        "visible": false,
+        "capitulos": 29,
+        "desc_en": "29 Chapters",
+        "desc_es": "29 Capítulos"
+      },
+      {
+        "id": "2-cronicas",
+        "es": "2 Crónicas",
+        "en": "2 Chronicles",
+        "icono": "avatares/2-cronicas.svg",
+        "visible": false,
+        "capitulos": 36,
+        "desc_en": "36 Chapters",
+        "desc_es": "36 Capítulos"
+      },
+      {
+        "id": "esdras",
+        "es": "Esdras",
+        "en": "Ezra",
+        "icono": "avatares/esdras.svg",
+        "visible": false,
+        "capitulos": 10,
+        "desc_en": "10 Chapters",
+        "desc_es": "10 Capítulos"
+      },
+      {
+        "id": "nehemias",
+        "es": "Nehemías",
+        "en": "Nehemiah",
+        "icono": "avatares/nehemias.svg",
+        "visible": false,
+        "capitulos": 13,
+        "desc_en": "13 Chapters",
+        "desc_es": "13 Capítulos"
+      },
+      {
+        "id": "tobias",
+        "es": "Tobías",
+        "en": "Tobit",
+        "icono": "avatares/tobias.svg",
+        "visible": false,
+        "capitulos": 14,
+        "desc_en": "14 Chapters",
+        "desc_es": "14 Capítulos"
+      },
+      {
+        "id": "judit",
+        "es": "Judit",
+        "en": "Judith",
+        "icono": "avatares/judit.svg",
+        "visible": false,
+        "capitulos": 16,
+        "desc_en": "16 Chapters",
+        "desc_es": "16 Capítulos"
+      },
+      {
+        "id": "ester",
+        "es": "Ester",
+        "en": "Esther",
+        "icono": "avatares/ester.svg",
+        "visible": false,
+        "capitulos": 10,
+        "desc_en": "10 Chapters",
+        "desc_es": "10 Capítulos"
+      },
+      {
+        "id": "ester-suplementos-griegos",
+        "es": "Ester (suplementos griegos)",
+        "en": "Esther (Greek supplements)",
+        "icono": "avatares/ester-suplementos-griegos.svg",
+        "visible": false,
+        "capitulos": 6,
+        "desc_en": "6 Chapters",
+        "desc_es": "6 Capítulos"
+      },
+      {
+        "id": "1-macabeos",
+        "es": "1 Macabeos",
+        "en": "1 Maccabees",
+        "icono": "avatares/1-macabeos.svg",
+        "visible": false,
+        "capitulos": 16,
+        "desc_en": "16 Chapters",
+        "desc_es": "16 Capítulos"
+      },
+      {
+        "id": "2-macabeos",
+        "es": "2 Macabeos",
+        "en": "2 Maccabees",
+        "icono": "avatares/2-macabeos.svg",
+        "visible": false,
+        "capitulos": 15,
+        "desc_en": "15 Chapters",
+        "desc_es": "15 Capítulos"
+      }
+    ],
+    "Libros Sapienciales": [
+      {
+        "id": "job",
+        "es": "Job",
+        "en": "Job",
+        "icono": "avatares/job.svg",
+        "visible": false,
+        "capitulos": 42,
+        "desc_en": "42 Chapters",
+        "desc_es": "42 Capítulos"
+      },
+      {
+        "id": "salmos",
+        "es": "Salmos",
+        "en": "Psalms",
+        "icono": "avatares/salmos.svg",
+        "visible": false,
+        "capitulos": 150,
+        "desc_en": "150 Chapters",
+        "desc_es": "150 Capítulos"
+      },
+      {
+        "id": "proverbios",
+        "es": "Proverbios",
+        "en": "Proverbs",
+        "icono": "avatares/proverbios.svg",
+        "visible": false,
+        "capitulos": 31,
+        "desc_en": "31 Chapters",
+        "desc_es": "31 Capítulos"
+      },
+      {
+        "id": "eclesiastes",
+        "es": "Eclesiastés",
+        "en": "Ecclesiastes",
+        "icono": "avatares/eclesiastes.svg",
+        "visible": false,
+        "capitulos": 12,
+        "desc_en": "12 Chapters",
+        "desc_es": "12 Capítulos"
+      },
+      {
+        "id": "cantar-de-los-cantares",
+        "es": "Cantar de los Cantares",
+        "en": "Song of Solomon",
+        "icono": "avatares/cantar-de-los-cantares.svg",
+        "visible": false,
+        "capitulos": 8,
+        "desc_en": "8 Chapters",
+        "desc_es": "8 Capítulos"
+      },
+      {
+        "id": "sabiduria",
+        "es": "Sabiduría",
+        "en": "Wisdom of Solomon",
+        "icono": "avatares/sabiduria.svg",
+        "visible": false,
+        "capitulos": 19,
+        "desc_en": "19 Chapters",
+        "desc_es": "19 Capítulos"
+      },
+      {
+        "id": "eclesiastico",
+        "es": "Eclesiástico",
+        "en": "Ecclesiasticus",
+        "icono": "avatares/eclesiastico.svg",
+        "visible": false,
+        "capitulos": 51,
+        "desc_en": "51 Chapters",
+        "desc_es": "51 Capítulos"
+      }
+    ],
+    "Profetas": [
+      {
+        "id": "isaias",
+        "es": "Isaías",
+        "en": "Isaiah",
+        "icono": "avatares/isaias.svg",
+        "visible": false,
+        "capitulos": 66,
+        "desc_en": "66 Chapters",
+        "desc_es": "66 Capítulos"
+      },
+      {
+        "id": "jeremias",
+        "es": "Jeremías",
+        "en": "Jeremiah",
+        "icono": "avatares/jeremias.svg",
+        "visible": false,
+        "capitulos": 52,
+        "desc_en": "52 Chapters",
+        "desc_es": "52 Capítulos"
+      },
+      {
+        "id": "lamentaciones",
+        "es": "Lamentaciones",
+        "en": "Lamentations",
+        "icono": "avatares/lamentaciones.svg",
+        "visible": false,
+        "capitulos": 5,
+        "desc_en": "5 Chapters",
+        "desc_es": "5 Capítulos"
+      },
+      {
+        "id": "baruc",
+        "es": "Baruc",
+        "en": "Baruch",
+        "icono": "avatares/baruc.svg",
+        "visible": false,
+        "capitulos": 5,
+        "desc_en": "5 Chapters",
+        "desc_es": "5 Capítulos"
+      },
+      {
+        "id": "carta-de-jeremias",
+        "es": "Carta de Jeremías",
+        "en": "Letter of Jeremiah",
+        "icono": "avatares/carta-de-jeremias.svg",
+        "visible": false,
+        "capitulos": 1,
+        "desc_en": "1 Chapter",
+        "desc_es": "1 Capítulo"
+      },
+      {
+        "id": "ezequiel",
+        "es": "Ezequiel",
+        "en": "Ezekiel",
+        "icono": "avatares/ezequiel.svg",
+        "visible": false,
+        "capitulos": 48,
+        "desc_en": "48 Chapters",
+        "desc_es": "48 Capítulos"
+      },
+      {
+        "id": "daniel",
+        "es": "Daniel",
+        "en": "Daniel",
+        "icono": "avatares/daniel.svg",
+        "visible": false,
+        "capitulos": 12,
+        "desc_en": "12 Chapters",
+        "desc_es": "12 Capítulos"
+      },
+      {
+        "id": "daniel-suplementos-griegos",
+        "es": "Daniel (suplementos griegos)",
+        "en": "Daniel (Greek supplements)",
+        "icono": "avatares/daniel-suplementos-griegos.svg",
+        "visible": false,
+        "capitulos": 3,
+        "desc_en": "3 Chapters",
+        "desc_es": "3 Capítulos"
+      },
+      {
+        "id": "oseas",
+        "es": "Oseas",
+        "en": "Hosea",
+        "icono": "avatares/oseas.svg",
+        "visible": false,
+        "capitulos": 14,
+        "desc_en": "14 Chapters",
+        "desc_es": "14 Capítulos"
+      },
+      {
+        "id": "joel",
+        "es": "Joel",
+        "en": "Joel",
+        "icono": "avatares/joel.svg",
+        "visible": false,
+        "capitulos": 4,
+        "desc_en": "4 Chapters",
+        "desc_es": "4 Capítulos"
+      },
+      {
+        "id": "amos",
+        "es": "Amós",
+        "en": "Amos",
+        "icono": "avatares/amos.svg",
+        "visible": false,
+        "capitulos": 9,
+        "desc_en": "9 Chapters",
+        "desc_es": "9 Capítulos"
+      },
+      {
+        "id": "abdias",
+        "es": "Abdías",
+        "en": "Obadiah",
+        "icono": "avatares/abdias.svg",
+        "visible": false,
+        "capitulos": 1,
+        "desc_en": "1 Chapter",
+        "desc_es": "1 Capítulo"
+      },
+      {
+        "id": "jonas",
+        "es": "Jonás",
+        "en": "Jonah",
+        "icono": "avatares/jonas.svg",
+        "visible": false,
+        "capitulos": 4,
+        "desc_en": "4 Chapters",
+        "desc_es": "4 Capítulos"
+      },
+      {
+        "id": "miqueas",
+        "es": "Miqueas",
+        "en": "Micah",
+        "icono": "avatares/miqueas.svg",
+        "visible": false,
+        "capitulos": 7,
+        "desc_en": "7 Chapters",
+        "desc_es": "7 Capítulos"
+      },
+      {
+        "id": "nahum",
+        "es": "Nahum",
+        "en": "Nahum",
+        "icono": "avatares/nahum.svg",
+        "visible": false,
+        "capitulos": 3,
+        "desc_en": "3 Chapters",
+        "desc_es": "3 Capítulos"
+      },
+      {
+        "id": "habacuc",
+        "es": "Habacuc",
+        "en": "Habakkuk",
+        "icono": "avatares/habacuc.svg",
+        "visible": false,
+        "capitulos": 3,
+        "desc_en": "3 Chapters",
+        "desc_es": "3 Capítulos"
+      },
+      {
+        "id": "sofonias",
+        "es": "Sofonías",
+        "en": "Zephaniah",
+        "icono": "avatares/sofonias.svg",
+        "visible": false,
+        "capitulos": 3,
+        "desc_en": "3 Chapters",
+        "desc_es": "3 Capítulos"
+      },
+      {
+        "id": "ageo",
+        "es": "Ageo",
+        "en": "Haggai",
+        "icono": "avatares/ageo.svg",
+        "visible": false,
+        "capitulos": 2,
+        "desc_en": "2 Chapters",
+        "desc_es": "2 Capítulos"
+      },
+      {
+        "id": "zacarias",
+        "es": "Zacarías",
+        "en": "Zechariah",
+        "icono": "avatares/zacarias.svg",
+        "visible": false,
+        "capitulos": 14,
+        "desc_en": "14 Chapters",
+        "desc_es": "14 Capítulos"
+      },
+      {
+        "id": "malaquias",
+        "es": "Malaquías",
+        "en": "Malachi",
+        "icono": "avatares/malaquias.svg",
+        "visible": false,
+        "capitulos": 3,
+        "desc_en": "3 Chapters",
+        "desc_es": "3 Capítulos"
+      }
+    ]
+  },
+  "Nuevo Testamento": {
+    "Evangelios": [
+      {
+        "id": "san-mateo",
+        "es": "San Mateo",
+        "en": "Saint Matthew",
+        "icono": "avatares/san-mateo.svg",
+        "visible": true,
+        "capitulos": 28,
+        "desc_en": "28 Chapters",
+        "desc_es": "28 Capítulos"
+      },
+      {
+        "id": "san-marcos",
+        "es": "San Marcos",
+        "en": "Saint Mark",
+        "icono": "avatares/san-marcos.svg",
+        "visible": true,
+        "capitulos": 16,
+        "desc_en": "16 Chapters",
+        "desc_es": "16 Capítulos"
+      },
+      {
+        "id": "san-lucas",
+        "es": "San Lucas",
+        "en": "Saint Luke",
+        "icono": "avatares/san-lucas.svg",
+        "visible": true,
+        "capitulos": 24,
+        "desc_en": "24 Chapters",
+        "desc_es": "24 Capítulos"
+      },
+      {
+        "id": "san-juan",
+        "es": "San Juan",
+        "en": "Saint John",
+        "icono": "avatares/san-juan.svg",
+        "visible": true,
+        "capitulos": 21,
+        "desc_en": "21 Chapters",
+        "desc_es": "21 Capítulos"
+      }
+    ],
+    "Hechos de los Apóstoles": [
+      {
+        "id": "hechos-de-los-apostoles",
+        "es": "Hechos de los Apóstoles",
+        "en": "Acts of the Apostles",
+        "icono": "avatares/hechos-de-los-apostoles.svg",
+        "visible": false,
+        "capitulos": 28,
+        "desc_en": "28 Chapters",
+        "desc_es": "28 Capítulos"
+      }
+    ],
+    "Cartas de San Pablo": [
+      {
+        "id": "romanos",
+        "es": "Romanos",
+        "en": "Romans",
+        "icono": "avatares/romanos.svg",
+        "visible": false,
+        "capitulos": 16,
+        "desc_en": "16 Chapters",
+        "desc_es": "16 Capítulos"
+      },
+      {
+        "id": "1-corintios",
+        "es": "1 Corintios",
+        "en": "1 Corinthians",
+        "icono": "avatares/1-corintios.svg",
+        "visible": false,
+        "capitulos": 16,
+        "desc_en": "16 Chapters",
+        "desc_es": "16 Capítulos"
+      },
+      {
+        "id": "2-corintios",
+        "es": "2 Corintios",
+        "en": "2 Corinthians",
+        "icono": "avatares/2-corintios.svg",
+        "visible": false,
+        "capitulos": 13,
+        "desc_en": "13 Chapters",
+        "desc_es": "13 Capítulos"
+      },
+      {
+        "id": "galatas",
+        "es": "Gálatas",
+        "en": "Galatians",
+        "icono": "avatares/galatas.svg",
+        "visible": false,
+        "capitulos": 6,
+        "desc_en": "6 Chapters",
+        "desc_es": "6 Capítulos"
+      },
+      {
+        "id": "efesios",
+        "es": "Efesios",
+        "en": "Ephesians",
+        "icono": "avatares/efesios.svg",
+        "visible": false,
+        "capitulos": 6,
+        "desc_en": "6 Chapters",
+        "desc_es": "6 Capítulos"
+      },
+      {
+        "id": "filipenses",
+        "es": "Filipenses",
+        "en": "Philippians",
+        "icono": "avatares/filipenses.svg",
+        "visible": false,
+        "capitulos": 4,
+        "desc_en": "4 Chapters",
+        "desc_es": "4 Capítulos"
+      },
+      {
+        "id": "colosenses",
+        "es": "Colosenses",
+        "en": "Colossians",
+        "icono": "avatares/colosenses.svg",
+        "visible": false,
+        "capitulos": 4,
+        "desc_en": "4 Chapters",
+        "desc_es": "4 Capítulos"
+      },
+      {
+        "id": "1-tesalonicenses",
+        "es": "1 Tesalonicenses",
+        "en": "1 Thessalonians",
+        "icono": "avatares/1-tesalonicenses.svg",
+        "visible": false,
+        "capitulos": 5,
+        "desc_en": "5 Chapters",
+        "desc_es": "5 Capítulos"
+      },
+      {
+        "id": "2-tesalonicenses",
+        "es": "2 Tesalonicenses",
+        "en": "2 Thessalonians",
+        "icono": "avatares/2-tesalonicenses.svg",
+        "visible": false,
+        "capitulos": 3,
+        "desc_en": "3 Chapters",
+        "desc_es": "3 Capítulos"
+      },
+      {
+        "id": "1-timoteo",
+        "es": "1 Timoteo",
+        "en": "1 Timothy",
+        "icono": "avatares/1-timoteo.svg",
+        "visible": false,
+        "capitulos": 6,
+        "desc_en": "6 Chapters",
+        "desc_es": "6 Capítulos"
+      },
+      {
+        "id": "2-timoteo",
+        "es": "2 Timoteo",
+        "en": "2 Timothy",
+        "icono": "avatares/2-timoteo.svg",
+        "visible": false,
+        "capitulos": 4,
+        "desc_en": "4 Chapters",
+        "desc_es": "4 Capítulos"
+      },
+      {
+        "id": "tito",
+        "es": "Tito",
+        "en": "Titus",
+        "icono": "avatares/tito.svg",
+        "visible": false,
+        "capitulos": 3,
+        "desc_en": "3 Chapters",
+        "desc_es": "3 Capítulos"
+      },
+      {
+        "id": "filemon",
+        "es": "Filemón",
+        "en": "Philemon",
+        "icono": "avatares/filemon.svg",
+        "visible": false,
+        "capitulos": 1,
+        "desc_en": "1 Chapter",
+        "desc_es": "1 Capítulo"
+      },
+      {
+        "id": "hebreos",
+        "es": "Hebreos",
+        "en": "Hebrews",
+        "icono": "avatares/hebreos.svg",
+        "visible": false,
+        "capitulos": 13,
+        "desc_en": "13 Chapters",
+        "desc_es": "13 Capítulos"
+      }
+    ],
+    "Cartas Canónicas": [
+      {
+        "id": "santiago",
+        "es": "Santiago",
+        "en": "James",
+        "icono": "avatares/santiago.svg",
+        "visible": false,
+        "capitulos": 5,
+        "desc_en": "5 Chapters",
+        "desc_es": "5 Capítulos"
+      },
+      {
+        "id": "1-san-pedro",
+        "es": "1 San Pedro",
+        "en": "1 Peter",
+        "icono": "avatares/1-san-pedro.svg",
+        "visible": false,
+        "capitulos": 5,
+        "desc_en": "5 Chapters",
+        "desc_es": "5 Capítulos"
+      },
+      {
+        "id": "2-san-pedro",
+        "es": "2 San Pedro",
+        "en": "2 Peter",
+        "icono": "avatares/2-san-pedro.svg",
+        "visible": false,
+        "capitulos": 3,
+        "desc_en": "3 Chapters",
+        "desc_es": "3 Capítulos"
+      },
+      {
+        "id": "1-san-juan",
+        "es": "1 San Juan",
+        "en": "1 John",
+        "icono": "avatares/1-san-juan.svg",
+        "visible": false,
+        "capitulos": 5,
+        "desc_en": "5 Chapters",
+        "desc_es": "5 Capítulos"
+      },
+      {
+        "id": "2-san-juan",
+        "es": "2 San Juan",
+        "en": "2 John",
+        "icono": "avatares/2-san-juan.svg",
+        "visible": false,
+        "capitulos": 1,
+        "desc_en": "1 Chapter",
+        "desc_es": "1 Capítulo"
+      },
+      {
+        "id": "3-san-juan",
+        "es": "3 San Juan",
+        "en": "3 John",
+        "icono": "avatares/3-san-juan.svg",
+        "visible": false,
+        "capitulos": 1,
+        "desc_en": "1 Chapter",
+        "desc_es": "1 Capítulo"
+      },
+      {
+        "id": "san-judas",
+        "es": "San Judas",
+        "en": "Jude",
+        "icono": "avatares/san-judas.svg",
+        "visible": false,
+        "capitulos": 1,
+        "desc_en": "1 Chapter",
+        "desc_es": "1 Capítulo"
+      }
+    ],
+    "Libro del Apocalipsis": [
+      {
+        "id": "apocalipsis",
+        "es": "Apocalipsis",
+        "en": "Revelation",
+        "icono": "avatares/apocalipsis.svg",
+        "visible": false,
+        "capitulos": 22,
+        "desc_en": "22 Chapters",
+        "desc_es": "22 Capítulos"
+      }
+    ]
+  },
+  "Oraciones": {
+    "Oraciones": [
+      {
+        "id": "padre-nuestro",
+        "es": "Padre Nuestro",
+        "en": "Our Father",
+        "icono": "",
+        "visible": false,
+        "desc_en": "",
+        "desc_es": ""
+      },
+      {
+        "id": "avemaria",
+        "es": "Avemaría",
+        "en": "Hail Mary",
+        "icono": "",
+        "visible": false,
+        "desc_en": "",
+        "desc_es": ""
+      },
+      {
+        "id": "angelus",
+        "es": "Ángelus",
+        "en": "Angelus",
+        "icono": "",
+        "visible": false,
+        "desc_en": "",
+        "desc_es": ""
+      },
+      {
+        "id": "acto-de-contricion",
+        "es": "Acto de Contrición",
+        "en": "Act of Contrition",
+        "icono": "",
+        "visible": false,
+        "desc_en": "",
+        "desc_es": ""
+      },
+      {
+        "id": "angel-de-la-guarda",
+        "es": "Ángel de la guarda",
+        "en": "Guardian Angel",
+        "icono": "",
+        "visible": false,
+        "desc_en": "",
+        "desc_es": ""
+      },
+      {
+        "id": "anima-christi",
+        "es": "Anima Christi",
+        "en": "Anima Christi",
+        "icono": "",
+        "visible": false,
+        "desc_en": "",
+        "desc_es": ""
+      },
+      {
+        "id": "credo",
+        "es": "Credo",
+        "en": "Creed",
+        "icono": "",
+        "visible": false,
+        "desc_en": "",
+        "desc_es": ""
+      },
+      {
+        "id": "gloria",
+        "es": "Gloria",
+        "en": "Glory to God",
+        "icono": "",
+        "visible": false,
+        "desc_en": "",
+        "desc_es": ""
+      },
+      {
+        "id": "magnificat",
+        "es": "Magnificat",
+        "en": "The Magnificat",
+        "icono": "",
+        "visible": false,
+        "desc_en": "",
+        "desc_es": ""
+      },
+      {
+        "id": "yo-confieso",
+        "es": "Yo Confieso",
+        "en": "Confiteor",
+        "icono": "",
+        "visible": false,
+        "desc_en": "",
+        "desc_es": ""
+      },
+      {
+        "id": "salve-reina",
+        "es": "Salve Reina",
+        "en": "Hail, Holy Queen",
+        "icono": "",
+        "visible": false,
+        "desc_en": "",
+        "desc_es": ""
+      },
+      {
+        "id": "bienaventuranzas",
+        "es": "Bienaventuranzas",
+        "en": "The Beatitudes",
+        "icono": "",
+        "visible": false,
+        "desc_en": "",
+        "desc_es": ""
+      },
+      {
+        "id": "acto-de-fe",
+        "es": "Acto de Fe",
+        "en": "Act of Faith",
+        "icono": "",
+        "visible": false,
+        "desc_en": "",
+        "desc_es": ""
+      },
+      {
+        "id": "acto-de-esperanza",
+        "es": "Acto de Esperanza",
+        "en": "Act of Hope",
+        "icono": "",
+        "visible": false,
+        "desc_en": "",
+        "desc_es": ""
+      },
+      {
+        "id": "acto-de-caridad",
+        "es": "Acto de Caridad",
+        "en": "Act of Charity",
+        "icono": "",
+        "visible": false,
+        "desc_en": "",
+        "desc_es": ""
+      },
+      {
+        "id": "oracion-al-espiritu-santo",
+        "es": "Oración al Espíritu Santo",
+        "en": "Holy Spirit Prayer",
+        "icono": "",
+        "visible": false,
+        "desc_en": "",
+        "desc_es": ""
+      },
+      {
+        "id": "oracion-a-san-miguel-arcangel",
+        "es": "Oración a San Miguel Arcángel",
+        "en": "Prayer to Saint Michael",
+        "icono": "",
+        "visible": false,
+        "desc_en": "",
+        "desc_es": ""
+      },
+      {
+        "id": "oracion-de-la-manana",
+        "es": "Oración de la Mañana",
+        "en": "Morning Prayer",
+        "icono": "",
+        "visible": false,
+        "desc_en": "",
+        "desc_es": ""
+      },
+      {
+        "id": "oracion-de-la-noche",
+        "es": "Oración de la Noche",
+        "en": "Night Prayer",
+        "icono": "",
+        "visible": false,
+        "desc_en": "",
+        "desc_es": ""
+      },
+      {
+        "id": "oracion-por-los-difuntos",
+        "es": "Oración por los Difuntos",
+        "en": "Prayer for the Dead",
+        "icono": "",
+        "visible": false,
+        "desc_en": "",
+        "desc_es": ""
+      },
+      {
+        "id": "bajo-tu-amparo",
+        "es": "Bajo tu amparo",
+        "en": "Under Your Protection",
+        "icono": "",
+        "visible": false,
+        "desc_en": "",
+        "desc_es": ""
+      },
+      {
+        "id": "letanias-lauretanas",
+        "es": "Letanías Lauretanas",
+        "en": "Litany of Loreto",
+        "icono": "",
+        "visible": false,
+        "desc_en": "",
+        "desc_es": ""
+      },
+      {
+        "id": "oracion-por-la-familia",
+        "es": "Oración por la familia",
+        "en": "Prayer for the Family",
+        "icono": "",
+        "visible": false,
+        "desc_en": "",
+        "desc_es": ""
+      },
+      {
+        "id": "oracion-por-los-enfermos",
+        "es": "Oración por los enfermos",
+        "en": "Prayer for the Sick",
+        "icono": "",
+        "visible": false,
+        "desc_en": "",
+        "desc_es": ""
+      },
+      {
+        "id": "oracion-antes-de-comer",
+        "es": "Oración antes de comer",
+        "en": "Grace Before Meals",
+        "icono": "",
+        "visible": false,
+        "desc_en": "",
+        "desc_es": ""
+      },
+      {
+        "id": "oracion-despues-de-comer",
+        "es": "Oración después de comer",
+        "en": "Grace After Meals",
+        "icono": "",
+        "visible": false,
+        "desc_en": "",
+        "desc_es": ""
+      },
+      {
+        "id": "oracion-a-san-jose",
+        "es": "Oración a San José",
+        "en": "Prayer to Saint Joseph",
+        "icono": "",
+        "visible": false,
+        "desc_en": "",
+        "desc_es": ""
+      },
+      {
+        "id": "oracion-al-sagrado-corazon-de-jesus",
+        "es": "Oración al Sagrado Corazón de Jesús",
+        "en": "Sacred Heart Prayer",
+        "icono": "",
+        "visible": false,
+        "desc_en": "",
+        "desc_es": ""
+      },
+      {
+        "id": "oracion-al-santisimo-sacramento",
+        "es": "Oración al Santísimo Sacramento",
+        "en": "Prayer to the Blessed Sacrament",
+        "icono": "",
+        "visible": false,
+        "desc_en": "",
+        "desc_es": ""
+      },
+      {
+        "id": "consagracion-a-la-virgen-maria",
+        "es": "Consagración a la Virgen María",
+        "en": "Consecration to Mary",
+        "icono": "",
+        "visible": false,
+        "desc_en": "",
+        "desc_es": ""
+      },
+      {
+        "id": "oracion-por-la-paz",
+        "es": "Oración por la paz",
+        "en": "Prayer for Peace",
+        "icono": "",
+        "visible": false,
+        "desc_en": "",
+        "desc_es": ""
+      },
+      {
+        "id": "santo",
+        "es": "Santo",
+        "en": "Holy, Holy, Holy",
+        "icono": "",
+        "visible": false,
+        "desc_en": "",
+        "desc_es": ""
+      },
+      {
+        "id": "senal-de-la-cruz",
+        "es": "Señal de la Cruz",
+        "en": "Sign of the Cross",
+        "icono": "",
+        "visible": false,
+        "desc_en": "",
+        "desc_es": ""
+      },
+      {
+        "id": "bendita-sea-tu-pureza",
+        "es": "Bendita sea tu pureza",
+        "en": "Blessed Be Thy Purity",
+        "icono": "",
+        "visible": false,
+        "desc_en": "",
+        "desc_es": ""
+      }
+    ]
+  }
+}
