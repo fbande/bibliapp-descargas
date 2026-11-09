@@ -22,7 +22,7 @@ h1{font-size:30px;font-weight:500;margin:18px 0 6px;color:var(--m)}
 .qr{background:#fff;border-radius:20px;padding:22px;text-align:center;box-shadow:0 6px 18px rgba(0,0,0,.08)}
 .qr img{width:240px;height:240px}.qr p{margin:10px 0 0;font-size:15px;color:var(--m)}
 .wide .chips{justify-content:flex-start}.expl{font-size:17px;line-height:1.5;margin:6px 0 14px}.expl b{color:var(--m);font-weight:500}
-.cafe{display:inline-block;margin-top:16px;padding:12px 20px;border:1.5px solid var(--a);border-radius:24px;background:#fff;color:var(--m);font-size:16px;font-weight:500;text-decoration:none}.cafe small{display:block;font-size:12px;font-weight:400;color:#8a8a8a;margin-top:2px}.lnk{color:var(--m);text-decoration:underline}.oculto{display:none}
+.lnk{color:var(--m);text-decoration:underline}.oculto{display:none}
 </style></head><body>
 <div id="app"></div>
 <script>
@@ -41,7 +41,7 @@ var pie='<p class="pie">Hecha por Fernando Bande. La app no recopila datos.</p>'
 var h;
 if(esAndroid){h='<div class="wrap">'+head+'<a class="btn" href="'+APK+'">Descargar para Android<small>Archivo APK · 8 MB · versión '+VERSION+'</small></a><div class="pasos"><b>Para instalarla</b><ol><li>Abrí el archivo descargado.</li><li>Si Android lo pide, permití instalar desde este navegador.</li><li>Si aparece un aviso de Play Protect, tocá <b>Instalar de todos modos</b>.</li></ol></div>'+pie+'<p class="pie">Código de verificación (SHA-256):<br><code>'+SHA+'</code></p></div>';}
 else if(esIOS){h='<div class="wrap">'+headWeb+'<a class="btn" href="app/">Abrir BibliApp<small>Versión web</small></a><div class="pasos"><b>Para tenerla a mano en el celu</b><ol><li>Abrí esta página en <b>Safari</b>.</li><li>Tocá el botón <b>Compartir</b> (el cuadrado con la flecha).</li><li>Elegí <b>Agregar a pantalla de inicio</b>.</li></ol></div>'+pie+'</div>';}
-else{document.body.className='wide';h='<div class="wrap"><div>'+head+'<p class="expl"><b>Escaneá el código con la cámara del celu.</b><br>En Android se descarga la app. En iPhone se abre la versión web.</p><p class="pie"><a class="lnk" href="app/">¿Querés verla acá? Abrir la versión web</a></p><a class="cafe" href="https://cafecito.app/bibliapp" target="_blank" rel="noopener">☕ Invitame un cafecito<small>Si la app te sirve. Es opcional.</small></a>'+pie+'</div><div class="qr"><img src="qr-pez.svg" alt="Código QR para descargar BibliApp"><p>Apuntá la cámara del celu acá</p></div></div>';}
+else{document.body.className='wide';h='<div class="wrap"><div>'+head+'<p class="expl"><b>Escaneá el código con la cámara del celu.</b><br>En Android se descarga la app. En iPhone se abre la versión web.</p><p class="pie"><a class="lnk" href="app/">¿Querés verla acá? Abrir la versión web</a></p>'+pie+'</div><div class="qr"><img src="qr-pez.svg" alt="Código QR para descargar BibliApp"><p>Apuntá la cámara del celu acá</p></div></div>';}
 document.getElementById('app').innerHTML=h;
 </script>
 <noscript><p style="text-align:center;padding:2rem">Descargá BibliApp para Android: <a href="https://github.com/fbande/bibliapp-descargas/releases/latest/download/BibliApp.apk">BibliApp.apk</a> · Versión web: <a href="app/">abrir</a></p></noscript>
